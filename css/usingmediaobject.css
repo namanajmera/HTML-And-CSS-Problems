@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  width: 25%;
+  background-color: #f6f3eb;
+  border-radius: 3px;
+}
+.content {
+  padding-left: 10px;
+  padding-right: 5px;
+}
+
+img {
+  width: 50%;
+  height: 50%;
+  padding-top: 10px;
+  padding-left: 10px;
+}
