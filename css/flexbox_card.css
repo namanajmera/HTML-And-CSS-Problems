@@ -1,0 +1,29 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+
+.card {
+  flex: 0 0 200px;
+  /* border: 2px solid black; */
+  box-shadow: 3px 3px 8px 0px rgba(0, 0, 0, 0.3);
+  margin: 10px;
+}
+
+img {
+  max-width: 100%;
+}
+
+button {
+  background-color: grey;
+  border: 0;
+  padding: 10px;
+  /* margin: 10px; */
+  width: 100%;
+  color: white;
+}
+
+.text {
+  padding: 0px 20px 20px;
+}
